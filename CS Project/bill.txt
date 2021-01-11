@@ -1,0 +1,9 @@
+Origin:       MUMBAI, Chhatrapati Shivaji International Airport
+Departure:    NAGPUR, Dr. Babasaheb International Airport
+Date of Departure:           1             1             1 
+Seats:         1 
+Name:         q
+Date of Birth:               1             1             1 
+Passport Number:             1 
+Moblie Number:               1 
+Total:         8540 
